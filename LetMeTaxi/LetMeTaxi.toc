@@ -2,6 +2,6 @@
 ## Title: LetMeTaxi
 ## Notes: Auto Dismount and Cancel Shapeshift to Taxi
 ## Author: Milz
-## Version: 0.1.1
+## Version: 0.2.0
 
 LetMeTaxi.lua

@@ -8,5 +8,5 @@
 
 ## Download Locations
 * GitHub: https://github.com/Milzstream/LetMeTaxi/releases
-* CurseForge: https://www.curseforge.com/wow/addons/letmetaxi
+* ~~CurseForge: https://www.curseforge.com/wow/addons/letmetaxi~~  (Deleted due to incompatability with Wowup)
 * Wago.io: https://addons.wago.io/addons/letmetaxi
